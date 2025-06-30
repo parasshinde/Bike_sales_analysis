@@ -32,6 +32,3 @@ Showcases my skills in data wrangling, analysis, and business-focused visualizat
 
 
 
-
-
-Ask ChatGPT
