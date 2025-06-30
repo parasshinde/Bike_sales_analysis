@@ -22,9 +22,9 @@ Revealed high-income buyers are 2.4× more likely to purchase.
 
 Cut ad-hoc reporting time by 80%.
 
-Tools: Excel 365 | Power Query | Pivot Tables | Dashboard Design
+Tools Used: Excel 365 | Power Query | Pivot Tables | Dashboard Design
 
-Showcases my skills in data wrangling, analysis, and business-focused visualization.
+
 
 
 
